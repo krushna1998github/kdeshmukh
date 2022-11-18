@@ -17,6 +17,7 @@ public class LinkedListDemo {
 			System.out.println(e);
 		}
 		
+		System.out.println("krushna");
 
 	}
 

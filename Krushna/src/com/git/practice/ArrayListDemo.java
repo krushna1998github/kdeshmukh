@@ -18,6 +18,7 @@ public class ArrayListDemo {
 		{
 			System.out.println(itr.next());
 		}
+		System.out.println("krushna");
 		
 
 	}
